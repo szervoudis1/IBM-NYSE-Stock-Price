@@ -1,4 +1,7 @@
-# IBM-NYSE-Stoke-Price
+
+# Ατομική Εργασία - Ζερβούδης Στέφανος - me2009
+
+## IBM-NYSE-Stoke-Price
 
 Πρακτική Άσκηση 2
 1. Να κατεβάσετε από το σύνδεσμο https://finance.yahoo.com/quote/IBM/history?p=IBM τις τιμές μετοχών της IBM για το χρονικό διάστημα από 03/01/1962 έως σήμερα.
