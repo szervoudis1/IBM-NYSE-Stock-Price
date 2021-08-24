@@ -3,7 +3,7 @@
 
 ## IBM-NYSE-Stoke-Price
 
-### Άσκηση 2 https://mybinder.org/v2/gh/szervoudis1/IBM-NYSE-Stock-Price/HEAD
+### Άσκηση 2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/szervoudis1/IBM-NYSE-Stock-Price/HEAD)
 
 1. Να κατεβάσετε από το σύνδεσμο https://finance.yahoo.com/quote/IBM/history?p=IBM τις τιμές μετοχών της IBM για το χρονικό διάστημα από 03/01/1962 έως σήμερα.
 
